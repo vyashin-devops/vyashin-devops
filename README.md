@@ -13,5 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+Certified by AWS, Google Cloud, Microsoft, HashiCorp, LPI
+<img src="certificates.jpg">
+
+
+
 -->
 ![](https://komarev.com/ghpvc/?username=adv4000&label=Views+Since+Nov2021&color=brightgreen)
