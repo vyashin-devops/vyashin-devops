@@ -1,5 +1,5 @@
 ### Hi there I'am Vyacheslav Yashin 👋 IT Specialist.  Certified by Microsoft
-<img src="certificates.jpg">
+<img src="certs.png">
 
 <!--
 **adv4000/adv4000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
