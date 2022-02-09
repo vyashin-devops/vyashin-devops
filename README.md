@@ -1,4 +1,4 @@
-### Hi there I'am Vyacheslav Yashin 👋 IT Specialist Certified by Microsoft
+### Hi there I'am Vyacheslav Yashin 👋 IT Specialist.  Certified by Microsoft
 <img src="certificates.jpg">
 
 <!--
